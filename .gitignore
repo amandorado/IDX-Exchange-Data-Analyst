@@ -1,0 +1,20 @@
+# Confidential MLS data
+*.csv
+
+# Jupyter notebooks and their outputs
+*.ipynb
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+*api_key*
+*credentials*
+*secret*
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
