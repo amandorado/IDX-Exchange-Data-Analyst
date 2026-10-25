@@ -18,3 +18,17 @@ __pycache__/
 
 # Mac files
 .DS_Store
+
+# Ignore confidential datasets
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
